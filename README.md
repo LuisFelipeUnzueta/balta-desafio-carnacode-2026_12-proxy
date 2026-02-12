@@ -1,4 +1,4 @@
-![CR-3](https://github.com/user-attachments/assets/485b7ff1-c098-40bf-93b4-00058c8729a9)
+![ES-7](https://github.com/user-attachments/assets/61d1998c-69c4-484e-a6d8-7c84b03357b9)
 
 ## 🥁 CarnaCode 2026 - Desafio 12 - Proxy
 
